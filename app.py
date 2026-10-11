@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 
 # عنوان المشروع
-st.title("نظام التعرف على الامراض")
+st.title("نظام التعرف على الامراض من الصور الطبية")
 st.write("Chest X-ray Classification using CNN")
 
 st.warning(
